@@ -10,4 +10,4 @@
         path: "/etc"
         owner: "root"
         group: "root"
-        mode: '000'
+        mode: '755'
